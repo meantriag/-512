@@ -401,18 +401,18 @@ hr {
   .tile.tile--4 .tile-inner {
     background: #423b2b;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
-  .tile.tile-8 .tile-inner {
+  .tile.tile-73 .tile-inner {
     color: #f9f6f2;
-    background: #f2b179; }
-  .tile.tile--8 .tile-inner {
+    background: #ba2944; }
+  .tile.tile-74 .tile-inner {
     color: #f9f6f2;
-    background: #ae6f3a; }
-  .tile.tile-16 .tile-inner {
+    background: #e2de50; }
+  .tile.tile-75 .tile-inner {
     color: #f9f6f2;
-    background: #f59563; }
-  .tile.tile--16 .tile-inner {
+    background: #595959; }
+  .tile.tile-76 .tile-inner {
     color: #f9f6f2;
-    background: #b95b2c; }
+    background: #107e25; }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
     background: #f67c5f; }
